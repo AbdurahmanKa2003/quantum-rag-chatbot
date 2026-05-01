@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/beykent-hakkinda/universitemiz/kurumsal-kimlik&source=&data=",
+  "content": "https://www.beykent.edu.tr/beykent-hakkinda/universitemiz/kurumsal-kimlik\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:17:04.045905Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "61d1f734472143831f2859d06e55ce1082ea4d646868a2056660fab66718de04"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/temizlik-hizmeti-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/temizlik-hizmeti-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:35:29.028411Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "e74eb1b2005a1fd85dab39d6ed690a0561e40f0f7d80855b6c77febd8a2ad960"
+}

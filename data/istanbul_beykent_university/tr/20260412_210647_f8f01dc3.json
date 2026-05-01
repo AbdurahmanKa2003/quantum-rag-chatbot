@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ogr-gor-bilim-sinavi-sonucu-11052021&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ogr-gor-bilim-sinavi-sonucu-11052021\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:06:47.211660Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "f8f01dc3792bb445ce1d0814e4e27534372c6ba3ad1fcac16e346a2a2f4019ac"
+}

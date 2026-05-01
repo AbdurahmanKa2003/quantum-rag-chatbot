@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/engelli-ogrenci-birimi/engelli-tanimi&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/engelli-ogrenci-birimi/engelli-tanimi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:19:31.193099Z",
+  "university": "Doğuş University",
+  "source_hash": "b1a2019c6f99ecb25c19151fd8dd238a2f9f537a27c8874b3350e2c4a2cc93e6"
+}

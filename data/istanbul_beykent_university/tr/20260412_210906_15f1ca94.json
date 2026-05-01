@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/beykent-universitesi-ogrenci-konseyi-secim-takvimi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/beykent-universitesi-ogrenci-konseyi-secim-takvimi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:09:06.531625Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "15f1ca9488660a3b5f643d29ee74d06c391af6a0a9efc3e300ded7fa324b3b76"
+}

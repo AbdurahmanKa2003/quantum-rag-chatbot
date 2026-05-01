@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/asos-i-ndeks&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/asos-i-ndeks\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:11:53.880123Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "f7ccb88b10061d3d920fcffeda835fef487cb69d80c3f0fc4b0b2e0f69f17b5f"
+}

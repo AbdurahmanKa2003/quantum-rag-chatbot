@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/uluslararasi/erasmus/erasmus-anlasmalarimiz&source=&data=",
+  "content": "https://www.beykent.edu.tr/uluslararasi/erasmus/erasmus-anlasmalarimiz\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:12:14.301086Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "02e28d0c7b492b1fa2c87021afaa8008afafdd416c4e0bb7b9294c939a4caf37"
+}

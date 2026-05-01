@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/form-kutuphanesi&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/form-kutuphanesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:19:19.565970Z",
+  "university": "Doğuş University",
+  "source_hash": "80eb7037be9c91e9e0e25f26cd6919caf7cd70349dcf96a5eddaac579ee9bf4f"
+}

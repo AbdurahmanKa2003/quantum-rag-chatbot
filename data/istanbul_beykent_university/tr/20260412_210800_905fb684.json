@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/bulusunuz-dusuncede-kalmasin&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/bulusunuz-dusuncede-kalmasin\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:08:00.845594Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "905fb684e363137d0bc7dd1f117589e16c95839ea9c57d5da2653bada1d3861d"
+}

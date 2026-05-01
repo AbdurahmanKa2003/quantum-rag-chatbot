@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/uluslararasi/erasmus/ogrenci-hareketliligi",
+  "content": "Upgraded to Sitefinity {{currentVersion}}\n\nGo to site\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrading to Sitefinity {{currentVersion}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nPlease wait a moment\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nUpgrading your project to Sitefinity {{currentVersion}}\n\nPlease wait a moment\n\nUpgraded to Sitefinity {{currentVersion}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.message }}\n\n{{ infoItem.stackTrace }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nWe'll be back shortly\n\nTemporarily unavailable due to maintenance\n\nPlease wait a moment\n\nWe'll be back shortly",
+  "language": "en",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:20.821057Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "cc58df966f7755d81c17b35c91ea3a9d9172d8d07a18b23ccad26f4b46caa972"
+}

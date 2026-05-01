@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/universitemize-arastirma-gorevlisi-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/universitemize-arastirma-gorevlisi-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:13:12.451711Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "4b032c955ec17ca6a09fe4dab8f1ca8d2bebd0a0363981fa54d31c7e57b28104"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-dalloz-fr&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-dalloz-fr\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:37.669576Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "29b685b43bf18b2375cf11646454ae43daedfff3391b0829e749a5169066b1b4"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/kazanci-hukuk-veritabani-hakkinda&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/kazanci-hukuk-veritabani-hakkinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:01.950902Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "dc7a03dc84b64c758476fae8f13c1587183854d0db8972eb551a6de9cd955857"
+}

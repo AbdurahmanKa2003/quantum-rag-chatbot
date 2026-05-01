@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/guvenlik-hizmeti-satin-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/guvenlik-hizmeti-satin-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:35:08.252079Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "94c8b1c741601232c9b73f7b221129c82534c7f84d09a3f5ce0670e814093668"
+}

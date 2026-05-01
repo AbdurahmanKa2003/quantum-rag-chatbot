@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/iletisim&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/iletisim\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:04:00.786733Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "cf60e73a514d1cae9257352f080324ad793b366623794816e9ef572749d4e7ce"
+}

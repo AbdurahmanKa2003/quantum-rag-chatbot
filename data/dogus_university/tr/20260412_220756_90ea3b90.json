@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/academic&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/academic\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T22:07:56.336802Z",
+  "university": "Doğuş University",
+  "source_hash": "90ea3b901af0cb25ac0417584e8adaaee33cd092ad610d76f540f489a5ac76a2"
+}

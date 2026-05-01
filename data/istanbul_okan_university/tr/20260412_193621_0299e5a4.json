@@ -1,0 +1,10 @@
+{
+  "title": "Sıkça Sorulan Sorular",
+  "url": "https://www.okan.edu.tr/sss/sayfa/9406/windows-1011-bilgisayarimdan-internete-nasil-baglanirim/",
+  "content": "Sıkça Sorulan Sorular\n\nWindows 10/11 bilgisayarımdan internete nasıl bağlanırım?\n\nMENU\n\n1)\n\nBildirim çubuğunda resimde\ngörülen bağlantı simgesine mouse\nile sağ tıklayıp “Ağ ve Paylaşım\nMerkezini Aç”a tıklayınız.\n\n2)\n\nAçılan pencerede “Yeni bağlantı\nveya ağ kurun” butonuna\ntıklayınız.\n\n3)\n\n“Kablosuz ağa el ile bağlan”a\ntıklayınız.\n\n4)\n\nYandaki ekranda görüldüğü\nşekilde Ağ adına “STUDENT” yazıp\nayarları yapınız ve “İleri”ye\ntıklayınız.\n\n5)\n\n“İleri” dedikten sonra karşınıza\ngelecek olan pencerede “Bağlantı\nayarlarını değiştir”i tıklayınız.\n\n6)\n\n“Ayarlar” butonuna tıklayın.\n\n7)\n\n“Sertifikasını doğrulayarak\nsunucunun kimliğini onayla” seçili\nsekmesini kaldırıp, resimde\ngörülen diğer ayarları da yaptıktan\nsonra “Yapılandır”ı tıklayınız.\n\n8)\n\nKarşınıza çıkan ekranda\notomatik olarak seçili gelen\n“Otomatik olarak Windows\noturum açma adımı ve parolamı\n(varsa etki alanımı) kullan”\nseçeneğini kaldırınız ve “Tamam”ı\ntıklayınız.\n\n9)\n\nGirdiğiniz bilgilerin yukarıdaki\nekranda doğruluğunu kontrol edip\n“Gelişmiş ayarlar”a tıklayınız.\n\n10)\n\nKarşınıza çıkan ekranda “Kimlik\ndoğrulama modunu belirt”\nseçeneğini aktif ederek, “Tamam”ı\ntıklayınız.\n\nYukarda belirtilen tüm ayarları yaptıktan sonra bulunan bağlantılardan STUDENT ağına tıklayınız.\n\nOkan E-mail kullanıcı adınızı (Örnek: scakir) ve parolanızı girerek “BAĞLAN” butonuna tıklayınız.\n\nBağlantınız gerçekleşmiş olacaktır.\n\nÖNEMLİ UYARI:\n\nBağlantı kurabilmeniz için DNS ve IP adresleriniz otomatik seçili olmalıdır.\n\nen\n\ntr",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T19:36:21.887892Z",
+  "university": "Istanbul Okan University",
+  "source_hash": "0299e5a407592e8c4aeef82b38a61ce7eb8c8089630aaeb5241290e2451af0c1"
+}

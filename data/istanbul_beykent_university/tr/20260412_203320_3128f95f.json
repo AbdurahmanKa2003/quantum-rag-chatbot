@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/firewaall-satin-alma-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/firewaall-satin-alma-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:33:20.322621Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "3128f95fb241a8fef64ba26345fa1b0292480ee29397c1a88e29286e57bac11a"
+}

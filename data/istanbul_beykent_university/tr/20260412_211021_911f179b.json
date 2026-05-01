@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/proquest-central&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/proquest-central\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:10:21.673153Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "911f179b56c00892abffad830dd3ef3b5ffc73d6eac983ca9df4c22654a4cb69"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/yeni-veri-tabani-abonelikleri&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/yeni-veri-tabani-abonelikleri\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:09:59.419294Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "2aa15f4736914e5f943f626ffd982a08ebde32b211dc6a4c94b879fdd25ea1f2"
+}

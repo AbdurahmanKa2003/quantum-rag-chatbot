@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yeni-veri-tabani-aboneligi-uptodate&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yeni-veri-tabani-aboneligi-uptodate\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:31:29.258684Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "27e33a018bc7d4f7b0c9e685c738a36b3e8813d964a4800f991526410fd07255"
+}

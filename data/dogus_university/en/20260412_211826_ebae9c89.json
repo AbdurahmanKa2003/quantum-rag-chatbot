@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.dogus.edu.tr/ogrenci/bağımlılıkla-mücadele",
+  "content": "Upgraded to Sitefinity {{currentVersion}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrading to Sitefinity {{currentVersion}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nPlease wait a moment\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nUpgrading your project to Sitefinity {{currentVersion}}\n\nPlease wait a moment\n\nUpgraded to Sitefinity {{currentVersion}}\n\nGo to site\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.stackTrace }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nWe'll be back shortly\n\nPlease wait a moment\n\nWe'll be back shortly",
+  "language": "en",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:18:26.438322Z",
+  "university": "Doğuş University",
+  "source_hash": "ebae9c89ca3bd1d05e5fd75fadc83c21cde803a32be8db17e324c72a26037b44"
+}

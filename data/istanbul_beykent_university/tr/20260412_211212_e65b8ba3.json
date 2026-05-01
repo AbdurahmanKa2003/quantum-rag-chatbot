@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/44c&source=&data=",
+  "content": "https://www.beykent.edu.tr/44c\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:12:12.884043Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "e65b8ba3e0322d43bcc4f7ee4f7e31d40aaf79a21cb28adca75639ffcc0a6f40"
+}

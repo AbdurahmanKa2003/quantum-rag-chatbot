@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/sosyal-transkript-sistemi-yayinda&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/sosyal-transkript-sistemi-yayinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:17:10.926864Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "077a7c9de5160947ace9b7e7176d2b6f21a6af487cdebd2d726d23e5c3031664"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/kayit-kabul/lisansustu&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/kayit-kabul/lisansustu\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:20:42.005255Z",
+  "university": "Doğuş University",
+  "source_hash": "7ce8e5c5c02edddc5f440a172e00e64f2233703a357e566d13899e2f75015095"
+}

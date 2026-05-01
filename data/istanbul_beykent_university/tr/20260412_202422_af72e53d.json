@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/arac-satis-ihalesi--&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/arac-satis-ihalesi--\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:24:22.378866Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "af72e53d7a8f17a8a390224147a02827b7bac41b5ec6baa8a9347ff052398dc3"
+}

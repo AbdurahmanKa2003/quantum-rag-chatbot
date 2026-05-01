@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/staj/staj-defteri&source=&data=",
+  "content": "https://www.beykent.edu.tr/staj/staj-defteri\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:15:35.185805Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "f7e8f583d19a62ff7db17c92df8a9da5a3d5cf21c5a582e590bf2f75fc5fe958"
+}

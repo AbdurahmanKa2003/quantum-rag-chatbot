@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/research/research-support-office-(ardes)/recent-news-from-ardes&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/research/research-support-office-(ardes)/recent-news-from-ardes\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T22:26:32.358857Z",
+  "university": "Doğuş University",
+  "source_hash": "70bcc06610cb79bafd05746de2e2832f69022ee95c96c226cf7ea36b790e4f8a"
+}

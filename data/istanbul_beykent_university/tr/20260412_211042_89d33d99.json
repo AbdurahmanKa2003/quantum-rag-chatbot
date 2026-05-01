@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/kutuphane-duyurusu-25092020&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/kutuphane-duyurusu-25092020\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:10:42.436734Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "89d33d99d4651d4b98116955de9cb118db6a110748318d2b18004b05fae76ade"
+}

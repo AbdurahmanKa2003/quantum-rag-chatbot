@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-world-news-digest&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-world-news-digest\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:31:57.303326Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "796b68ab00909253d2194aab7ee231a3ceb1e7d72fe98a0692b79e28ec343a8a"
+}

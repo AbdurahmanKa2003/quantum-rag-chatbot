@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/kablosuz-internet-erisimi-alimi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/kablosuz-internet-erisimi-alimi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:23:51.588867Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "3fa3adbeb5b7a0ca1197cbe592238cf4ed246b9d6e63d890fcb48292c83d2f40"
+}

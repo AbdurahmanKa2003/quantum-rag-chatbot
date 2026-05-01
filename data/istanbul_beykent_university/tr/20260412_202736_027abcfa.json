@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/nihai-degerlendirmee-sonuclarii&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/nihai-degerlendirmee-sonuclarii\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:27:36.824296Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "027abcfa0c596a5b069f716af75cb68a82281f7f40a10ca80715595f31583758"
+}

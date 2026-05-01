@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yeni-veritabani-aboneligi-jurix&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yeni-veritabani-aboneligi-jurix\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:36.325974Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "3410704a5fb6ed5d53df319035087d507e31cc5ea3cd887a32f0a6017b9c5577"
+}

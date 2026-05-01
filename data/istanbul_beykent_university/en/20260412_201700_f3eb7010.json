@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/ogrenci/kayit-ve-kabul/akademik-takvim/2010-2011",
+  "content": "Upgraded to Sitefinity {{currentVersion}}\n\nGo to site\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrading to Sitefinity {{currentVersion}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nPlease wait a moment\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nUpgrading your project to Sitefinity {{currentVersion}}\n\nPlease wait a moment\n\nUpgraded to Sitefinity {{currentVersion}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.stackTrace }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nWe'll be back shortly\n\nPlease wait a moment\n\nWe'll be back shortly",
+  "language": "en",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:17:00.938436Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "f3eb70106e109650bd0779aac9f38e755e2705d07b3f9cfbc5cbd978f9a1c5a9"
+}

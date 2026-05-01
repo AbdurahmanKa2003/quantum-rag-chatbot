@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-jama-network&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-jama-network\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:31:21.516612Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "ec2031cdded45f4dd9f8b3bac44e198f61c608463483e139a5f07117b6585b92"
+}

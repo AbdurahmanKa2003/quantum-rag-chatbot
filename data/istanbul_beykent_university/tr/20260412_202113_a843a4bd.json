@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/bina-sigortas%C4%B1-i-halesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/bina-sigortası-i-halesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:21:13.663751Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "a843a4bd249462e1e8dac3072ab18d80de5290c40fbb95247029160ba648f8f6"
+}

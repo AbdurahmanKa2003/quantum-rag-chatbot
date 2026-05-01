@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/kiralik-kafe-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/kiralik-kafe-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:16.084697Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d21e7d288a59ef2d433ce3cf0de863c329fc6122ef304a638e13c6d177982567"
+}

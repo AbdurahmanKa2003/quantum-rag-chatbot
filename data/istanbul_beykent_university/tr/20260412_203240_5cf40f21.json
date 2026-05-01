@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yeni-veritabani-aboneligi-turcademy&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yeni-veritabani-aboneligi-turcademy\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:40.636779Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "5cf40f21acb3dfd938115a6316fe8a0d43db012fe23db969ee78c0410f23586c"
+}

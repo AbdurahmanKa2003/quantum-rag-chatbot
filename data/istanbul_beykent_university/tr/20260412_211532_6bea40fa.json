@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/staj/formlar-dilekceler&source=&data=",
+  "content": "https://www.beykent.edu.tr/staj/formlar-dilekceler\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:15:32.870293Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "6bea40fadcb91eefd5f68c6f69c67720a628a741139a9987e5e5b0398a1c2b8d"
+}

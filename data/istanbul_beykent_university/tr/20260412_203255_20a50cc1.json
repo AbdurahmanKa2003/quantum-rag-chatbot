@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/baskili-promosyon-malzemeleri-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/baskili-promosyon-malzemeleri-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:55.374828Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "20a50cc11257514c72febe85827f16a12cc830ce6ec9b82d26247d97d016e54b"
+}

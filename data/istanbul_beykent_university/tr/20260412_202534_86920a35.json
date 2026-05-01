@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ogrenci-dekanlik-toplantisi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ogrenci-dekanlik-toplantisi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:25:34.067550Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "86920a35844ddc615996e3cbf168824b4aef0763fe9ef69f3e9ca7547c88f977"
+}

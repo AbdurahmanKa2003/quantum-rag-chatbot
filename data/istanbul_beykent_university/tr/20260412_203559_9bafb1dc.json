@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/dekan-atamasi-hk&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/dekan-atamasi-hk\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:35:59.157477Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "9bafb1dc4aeb9deb9dcf138e9585e7abae87636ef66c7e93c8c4e584a721b165"
+}

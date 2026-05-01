@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veri-tabani-libraryturk&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veri-tabani-libraryturk\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:34.374918Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "48458df730531f1abde7f68f7d39f188edaf7c3ff412ab1c5c236e2f09d51463"
+}

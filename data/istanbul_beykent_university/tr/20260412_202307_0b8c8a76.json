@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/binek-arac-alimi-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/binek-arac-alimi-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:23:07.734931Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "0b8c8a76c1477b01e8e697246f474c38b7cf1e4b8399a37be83401ae300222f1"
+}

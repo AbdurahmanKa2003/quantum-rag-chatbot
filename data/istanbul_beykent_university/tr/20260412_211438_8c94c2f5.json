@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-beck-ebibliothek&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-beck-ebibliothek\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:14:38.495301Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "8c94c2f5ca9200a144177bd352936bc4b8b24d0a3426497bfb9039134850f78a"
+}

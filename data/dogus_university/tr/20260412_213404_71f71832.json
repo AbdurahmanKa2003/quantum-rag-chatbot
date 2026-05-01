@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/about-us/general-secretariat/information-technology-center&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/about-us/general-secretariat/information-technology-center\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:34:04.443917Z",
+  "university": "Doğuş University",
+  "source_hash": "71f71832e996f5e19c77344ff60d4da9c2a48b54ddb6bbb90e3e72414f0ac5f6"
+}

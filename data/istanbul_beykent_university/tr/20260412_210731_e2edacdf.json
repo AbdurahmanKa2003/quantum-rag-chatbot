@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yuz-yuze-yapilan-dersler-hk&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yuz-yuze-yapilan-dersler-hk\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:07:31.454405Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "e2edacdf64dc99a9b864a49bac34e4e011c3901e2dc6e0733232ce81a3657590"
+}

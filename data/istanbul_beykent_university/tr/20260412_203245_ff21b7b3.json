@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yerleske-tadilat-isleri-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yerleske-tadilat-isleri-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:45.521933Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "ff21b7b33e62c76c1da883cb081f61f36efe4d9641888a59fd635d485e65f74c"
+}

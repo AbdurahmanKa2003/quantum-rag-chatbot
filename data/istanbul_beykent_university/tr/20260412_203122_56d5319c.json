@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-dataturkiye&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/deneme-erisimli-veritabani-dataturkiye\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:31:22.863624Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "56d5319c0c558ed6d3ee515fd9b0678a0a9ea7024fc7833fceb59f2491d99212"
+}

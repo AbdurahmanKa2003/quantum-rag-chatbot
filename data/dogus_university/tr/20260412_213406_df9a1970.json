@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/student/registration/special-talent-exam&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/student/registration/special-talent-exam\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:34:06.965504Z",
+  "university": "Doğuş University",
+  "source_hash": "df9a19709cdcd1870cb40a256ca64347a9fb22996f1b52a5d9742cb906d017d2"
+}

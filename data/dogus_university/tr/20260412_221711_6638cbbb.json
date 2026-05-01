@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/duyurular/detay/covid-19-hakkinda&source=&data=",
+  "content": "https://www.dogus.edu.tr/duyurular/detay/covid-19-hakkinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T22:17:11.957551Z",
+  "university": "Doğuş University",
+  "source_hash": "6638cbbb5cfcffe42c3f121d8506e86ac72c68c698aa8c1946a59b0f1f62cb43"
+}

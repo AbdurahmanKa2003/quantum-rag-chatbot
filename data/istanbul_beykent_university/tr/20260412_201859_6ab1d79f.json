@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/01042026-tarihli-duzeltme-ilani&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/01042026-tarihli-duzeltme-ilani\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:59.303618Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "6ab1d79f8e27f3edbcc129043c72af1f299c9871c8e21bb452d157ede9912bd3"
+}

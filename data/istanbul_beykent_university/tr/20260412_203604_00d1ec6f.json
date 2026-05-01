@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/universitemize-38-ogretim-uyesi-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/universitemize-38-ogretim-uyesi-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:36:04.207210Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "00d1ec6f2752e8d75a27139dfa5dd881e4189137b5cc8d86069819a926c767a7"
+}

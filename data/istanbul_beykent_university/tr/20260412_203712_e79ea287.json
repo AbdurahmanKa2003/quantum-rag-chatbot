@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yetenek-kapisinda-kayitlar-basladi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yetenek-kapisinda-kayitlar-basladi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:37:12.999160Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "e79ea2874d27459d17d63bbc946f9ad08c4f879d28abfa134bf0d687130640d2"
+}

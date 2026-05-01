@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/kayit-kabul/dikey-gecis&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/kayit-kabul/dikey-gecis\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:23:42.203331Z",
+  "university": "Doğuş University",
+  "source_hash": "9225a136608cc1d886a19e7a2935bbf5a113bf0959ac404fc982acffeac939d6"
+}

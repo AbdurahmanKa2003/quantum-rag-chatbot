@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/ogrenci/kayit-ve-kabul/pusula-sistemi",
+  "content": "Show details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nTemporarily unavailable due to maintenance",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:20.468222Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "207292ec7bfa6ae0716b30efa6152fb34af2bdc48418392e2c1f4dd70e6c9896"
+}

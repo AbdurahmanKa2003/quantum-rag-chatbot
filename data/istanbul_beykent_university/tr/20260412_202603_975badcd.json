@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/-on-degerlendirme-sonuclari&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/-on-degerlendirme-sonuclari\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:26:03.606957Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "975badcdf73346835cc49b0dc0c67aec91fe3f0439ed3c518c16294ef50e6aa9"
+}

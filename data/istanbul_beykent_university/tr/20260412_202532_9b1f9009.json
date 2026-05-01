@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/turkce-dil-yeterlik-sinavi-duyurusu&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/turkce-dil-yeterlik-sinavi-duyurusu\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:25:32.957846Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "9b1f90099ca4e41d79c9ad524e6e1f6563382a5bae5f3879b9d098755ac351ab"
+}

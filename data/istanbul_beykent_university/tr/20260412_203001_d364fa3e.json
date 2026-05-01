@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/bu-tomer-yeni-kur-donemi-hakkinda&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/bu-tomer-yeni-kur-donemi-hakkinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:30:01.369134Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d364fa3e0ddf6cf7c71a928bfe2c3cbcbd4188eab1ce03b5cfe8cfc064526cb5"
+}

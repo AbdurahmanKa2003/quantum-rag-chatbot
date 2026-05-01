@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/uluslararasi-ogrencilerimizin-dikkatine&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/uluslararasi-ogrencilerimizin-dikkatine\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:57.838936Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "34b0ca4bd7728c3359fa998ce94dfe11016759868ef2bec98e072fec65377b5a"
+}

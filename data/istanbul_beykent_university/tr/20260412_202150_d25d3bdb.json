@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/biz-bize-yeteriz-turkiyem&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/biz-bize-yeteriz-turkiyem\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:21:50.735461Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d25d3bdb14a6e2ef74625c8fa9ebb8c274ce442506e05f8a4b5c6d2626d09530"
+}

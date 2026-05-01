@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/dogusta-yasam/saglik-spor&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/dogusta-yasam/saglik-spor\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:22:36.618454Z",
+  "university": "Doğuş University",
+  "source_hash": "541744a367a4ff62ebef3cf93810b573b6736e93e2955ec6fe2e6d1de249f566"
+}

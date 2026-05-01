@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/akademik/fakulteler/tip-fakultesi",
+  "content": "Upgraded to Sitefinity {{currentVersion}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrading to Sitefinity {{currentVersion}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nPlease wait a moment\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nUpgrading your project to Sitefinity {{currentVersion}}\n\nPlease wait a moment\n\nUpgraded to Sitefinity {{currentVersion}}\n\nGo to site\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.message }}\n\n{{ infoItem.stackTrace }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nWe'll be back shortly\n\nTemporarily unavailable due to maintenance\n\nPlease wait a moment\n\nWe'll be back shortly",
+  "language": "en",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:36.007142Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "bdc4bdd2420834d4754aac9f764afca1e73c3d7c3151437e1667fe899eeb5aac"
+}

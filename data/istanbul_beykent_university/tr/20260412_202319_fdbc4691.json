@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/elektrik-enerjisi-alimi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/elektrik-enerjisi-alimi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:23:19.192500Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "fdbc46912b8f7a10c88c6f5f5ef6b7f3bf56afe558b53d608a18e081e1cf8cb8"
+}

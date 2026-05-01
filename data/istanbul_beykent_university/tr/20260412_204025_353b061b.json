@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/muze-ziyaretleri-hk&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/muze-ziyaretleri-hk\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:40:25.267931Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "353b061b437c58b44f7abddf25ef86190a96179eeb6e3c710df45cc5af20c774"
+}

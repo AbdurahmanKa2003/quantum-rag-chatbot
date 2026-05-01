@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/erken-kayit-suresi-uzatildi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/erken-kayit-suresi-uzatildi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:29:21.114512Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "7eb06b82ef78fdbe64636f6448fcaea099500af4229c812ed1c497de78adf2c0"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/akademik/fakulteler/tip-fakultesi",
+  "content": "Show details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nGo to site\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.message }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nTemporarily unavailable due to maintenance",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:35.762765Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "4cb2e16d56f7d8419b5399c0c732e5b84f8f34fc5a388938caebbd9e77a32c4d"
+}

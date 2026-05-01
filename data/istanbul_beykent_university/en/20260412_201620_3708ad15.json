@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/uluslararasi/erasmus/erasmus-dil-sinavi-ornekleri",
+  "content": "Upgraded to Sitefinity {{currentVersion}}\n\nGo to site\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nUpgrading to Sitefinity {{currentVersion}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nPlease wait a moment\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nUpgrading your project to Sitefinity {{currentVersion}}\n\nPlease wait a moment\n\nUpgraded to Sitefinity {{currentVersion}}\n\nUpgrade to Sitefinity {{currentVersion}} failed\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.stackTrace }}\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nWe'll be back shortly\n\nTemporarily unavailable due to maintenance\n\nPlease wait a moment\n\nWe'll be back shortly",
+  "language": "en",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:20.672739Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "3708ad1571cca85d9e1e87660b7d8b23ecd71efb8de8e927993439f96b791c3b"
+}

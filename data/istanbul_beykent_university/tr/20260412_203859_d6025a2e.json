@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/yaz-ogretimi-ders-kayitlari-hk&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/yaz-ogretimi-ders-kayitlari-hk\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:38:59.324683Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d6025a2e65d40df05ee54364d892e77a204f8e1e5e7b72c69d7884770a8f2a6c"
+}

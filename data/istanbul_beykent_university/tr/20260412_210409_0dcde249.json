@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/sikca-sorulan-sorular&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/sikca-sorulan-sorular\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:04:09.012647Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "0dcde24961cb9d97a7259785d4d027485390897c64f4c026f5683fa382e11012"
+}

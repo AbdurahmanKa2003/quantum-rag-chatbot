@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/student/disabled-student-unit/unit-members&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/student/disabled-student-unit/unit-members\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:32:44.612405Z",
+  "university": "Doğuş University",
+  "source_hash": "aed623a1296bd664ef60320490bbba1c5b0ef84a8a0a173f9d4b399144f182dd"
+}

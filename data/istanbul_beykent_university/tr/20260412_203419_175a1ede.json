@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/mobilya-sat%C4%B1n-al%C4%B1nacakt%C4%B1r&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/mobilya-satın-alınacaktır\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:34:19.535155Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "175a1ede44131eb88bbe7610ce1d88ceb03f526d0412d572e9dc5cf5268d82b7"
+}

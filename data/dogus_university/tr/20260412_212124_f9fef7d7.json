@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/hakkimizda/yonetmelikler&source=&data=",
+  "content": "https://www.dogus.edu.tr/hakkimizda/yonetmelikler\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:21:24.533282Z",
+  "university": "Doğuş University",
+  "source_hash": "f9fef7d74024e92454c3c08aebb096e0f45199dadc621b0aee4708a18e8d8bde"
+}

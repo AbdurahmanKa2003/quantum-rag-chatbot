@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/cozum-merkezi",
+  "content": "Show details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\nExpand\n\nTemporarily unavailable due to maintenance",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:21.705435Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "712be123c2fe910248bec05e6747966cd82f253f76cb97a2af0091abd4f5219d"
+}

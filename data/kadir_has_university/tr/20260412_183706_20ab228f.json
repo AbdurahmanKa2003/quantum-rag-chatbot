@@ -1,0 +1,10 @@
+{
+  "title": "IT-Eduroam",
+  "url": "https://www.khas.edu.tr/en/it-eduroam/",
+  "content": "Skip to content\n\nABOUT US\n\nOrganizational Chart\n\nSERVICES\n\nKHAS Learn\n\nInformation Security\n\nEmail Service\n\nVPN Access\n\nEduroam\n\nSPARKS\n\nContact Us\n\nMyKHAS\n\nTürkçe\n\nIT-Eduroam\n\nStudent:\n\n[email protected]\n\nAcademic/Administrative:\n\n[email protected]\n\nPlease enter your\n\nUse the\n\neduroam CAT\n\nWindows Setup\n\nmacOS Setup\n\nAndroid Setup\n\niOS/iPadOS Profile\n\n1\n\nSelect\n\neduroam\n\n2\n\n3\n\nEAP method:\n\nPEAP\n\nInner authentication:\n\nMSCHAPv2\n\n4\n\nConnect\n\nAndroid – Manual Setup\n\nEAP method:\n\nPEAP\n\nMSCHAPv2\n\nCA Certificate:\n\n\"Use system certificates\" (or \"Validate\" depending on device). Consult IT Support if unsure.\n\nIdentity:\n\nAnonymous identity:\n\nPassword:\n\niOS / iPadOS\n\nSelect\n\neduroam\n\nTrust\n\n.\n\nSetup via\n\n.\n\nFirst, ensure you type your username in\n\nfull email\n\n.\n\nIT Support:\n\n[email protected]\n\n·\n            Tel:\n\n0 (212) 533 65 32\n\nQuick Search\n\nContact Information\n\nPhone:\n\n+90 (212) 533 65 32\n\nFax:\n\n+90 (212) 631\n                            91 50\n\nEmail:\n\n[email protected]\n\nAddress:\n\nCibali Mah. Kadir\n                            Has Cad. 34083 Fatih, İstanbul",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T18:37:06.223812Z",
+  "university": "Kadir Has University",
+  "source_hash": "20ab228f23198635d0c93125e726750eba73358ffe6ea79700c723c1feb278c8"
+}

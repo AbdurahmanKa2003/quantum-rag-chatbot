@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/44-c-sinav-takvimi-hakkinda&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/44-c-sinav-takvimi-hakkinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:08:58.420134Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "1ed28bbd497a0f0c078168a9ce059d849dde5c6f00cb0e436b07bb9625aeeed4"
+}

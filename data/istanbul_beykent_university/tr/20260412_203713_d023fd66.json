@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/universitemiz-3-dr-ogr-uyesi-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/universitemiz-3-dr-ogr-uyesi-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:37:13.471011Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d023fd66a7459de9af294d85421a84dec4cb979b8fe2ad5f0bebcff659b8d9ab"
+}

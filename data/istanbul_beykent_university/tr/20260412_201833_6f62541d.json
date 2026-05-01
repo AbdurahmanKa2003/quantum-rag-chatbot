@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ambulans-hizmet-alim-isi-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ambulans-hizmet-alim-isi-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:33.785668Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "6f62541dc2981e0671167a96aa0ccf092033ce8feab56fb338be2e12fb2fd1ea"
+}

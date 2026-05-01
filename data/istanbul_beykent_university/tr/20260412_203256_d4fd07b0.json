@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ki-ralik-kafe-i-halesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ki-ralik-kafe-i-halesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:56.147758Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "d4fd07b0315a9fe8c9c26e98b993ae5b3da70897f08e49f9e399a4da5db9a259"
+}

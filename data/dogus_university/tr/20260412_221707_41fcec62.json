@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/aday/tyt-ayt-sinav-simulasyonu-basvuru-formu&source=&data=",
+  "content": "https://www.dogus.edu.tr/aday/tyt-ayt-sinav-simulasyonu-basvuru-formu\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T22:17:07.112600Z",
+  "university": "Doğuş University",
+  "source_hash": "41fcec62d0e03d5e40bdc3d8980e79a62e0890c6a34ae9cccb4d680d7d9f5200"
+}

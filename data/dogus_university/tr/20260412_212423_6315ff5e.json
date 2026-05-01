@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2&source=&data=",
+  "content": "https://www.dogus.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:24:23.322989Z",
+  "university": "Doğuş University",
+  "source_hash": "6315ff5e4baef41e764783aaa59fcd27e156354bc9b3648c813f37a7cae62d41"
+}

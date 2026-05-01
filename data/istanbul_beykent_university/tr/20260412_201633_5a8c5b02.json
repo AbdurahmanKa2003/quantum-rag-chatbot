@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/beykent-hakkinda/universitemiz/misyon-ve-vizyon",
+  "content": "Show details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nGo to site\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}\n\nTemporarily unavailable due to maintenance",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:33.937764Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "5a8c5b02f8c38a327940d88150bcb3d1822a1c4d5f64fa65e1f01bd85b455cbb"
+}

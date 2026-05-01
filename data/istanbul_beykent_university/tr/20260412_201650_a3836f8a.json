@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/ogrenci/kayit-ve-kabul/cift-anadal-yandal&source=&data=",
+  "content": "https://www.beykent.edu.tr/ogrenci/kayit-ve-kabul/cift-anadal-yandal\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:50.899594Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "a3836f8aa155f16eb06accef8771960fd8204969010d2b6d97475199a175bb75"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.dogus.edu.tr/en/announcements/details/special-talent-examinations-have-started&source=&data=",
+  "content": "https://www.dogus.edu.tr/en/announcements/details/special-talent-examinations-have-started\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T22:27:05.125912Z",
+  "university": "Doğuş University",
+  "source_hash": "0fb939c47fbb331400674c1c89b1bad8434ee07a79fbaf66229f4c3063aa3bdf"
+}

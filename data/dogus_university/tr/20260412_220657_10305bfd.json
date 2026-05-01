@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.dogus.edu.tr/en/academic-staff/faculty-of-law",
+  "content": "Go to site\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\n{{ infoItem.message }}\n\nExpand\n\nTemporarily unavailable due to maintenance",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T22:06:57.687383Z",
+  "university": "Doğuş University",
+  "source_hash": "10305bfdf2eaefaa28ca8772c1e165d705f1c8687f5fa0983555245b27027dd1"
+}

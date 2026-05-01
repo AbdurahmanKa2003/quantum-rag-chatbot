@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/fako-cihazi-satisi-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/fako-cihazi-satisi-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:23:16.688859Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "e5b2eb4eb9ecc9a332135d54f23d4e32e4e33a2feee047d2287c6c3ef9d114a2"
+}

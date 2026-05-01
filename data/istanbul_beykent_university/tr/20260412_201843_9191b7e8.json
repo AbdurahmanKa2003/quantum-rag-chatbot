@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/guvenlik-hizmeti-alimi-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/guvenlik-hizmeti-alimi-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:43.629033Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "9191b7e8a63e8aab2e7a70c533ef95c15437f7528367b87ef635ada1975dbb02"
+}

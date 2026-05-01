@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/erasmus-sozlu-sinav-listeleri-&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/erasmus-sozlu-sinav-listeleri-\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:18:58.843949Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "a249775f3b9005cb9e23053a18070372ca35690313a705c92189681deae3cfde"
+}

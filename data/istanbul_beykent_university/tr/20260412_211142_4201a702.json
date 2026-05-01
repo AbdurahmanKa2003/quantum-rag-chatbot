@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/akademik-sunum&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/akademik-sunum\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:11:42.121718Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "4201a70293b50c788f06221306310348f825a23c780670aeb1cb720a577d707f"
+}

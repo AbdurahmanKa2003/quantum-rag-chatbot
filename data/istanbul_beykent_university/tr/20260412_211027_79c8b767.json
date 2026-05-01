@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/odunc-alinan-yayinlar-hakkinda&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/odunc-alinan-yayinlar-hakkinda\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:10:27.491807Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "79c8b767d8679f1fdc983b8754ea05af538b949b71eb1fa1ea60efa075dea3c5"
+}

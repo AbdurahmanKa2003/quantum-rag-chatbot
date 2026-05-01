@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ssd-disk-ve-ram-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ssd-disk-ve-ram-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:21:36.540285Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "48b25bba26bdcf3139576bd2557ad57f8be30506080703863d7f4b70489bb99a"
+}

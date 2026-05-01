@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/akademisyen-online-veri-tabani&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/akademisyen-online-veri-tabani\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:32:23.655169Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "59959c9404543ef720ce928fbaf3454137ecaae4397b0434256adec6565cfc4d"
+}

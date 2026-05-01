@@ -1,0 +1,10 @@
+{
+  "title": "Upgraded to Sitefinity {{currentVersion}}",
+  "url": "https://www.beykent.edu.tr/beykent-hakkinda/bilgi-sistemleri",
+  "content": "Show details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nInitialization failed\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\n{{currentAction}}\n\nShow details\n\n{{errorsCount}}\n\n{{warningsCount}}\n\nHide details\n\nGo to site\n\nInitialization failed\n\n{{errorsCount}}\n\nerror(s)\n\n{{warningsCount}}\n\nwarning(s)\n\nWarning\n\nError\n\nExpand\n\n{{ infoItem.date | date:'HH:mm:ss' }}",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:43.980479Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "5307f1ed9dac94a2cd7eb78913401fa599e6e1aabc16cc4d5f212d5d1b93ac26"
+}

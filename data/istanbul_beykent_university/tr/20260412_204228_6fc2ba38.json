@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/1-donem-tryos-basvurulari&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/1-donem-tryos-basvurulari\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:42:28.863054Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "6fc2ba3889e2480fc64de194c259263b972e2c9100d89b8816867d1d43d5db91"
+}

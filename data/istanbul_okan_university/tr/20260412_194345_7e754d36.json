@@ -1,0 +1,10 @@
+{
+  "title": "EDUROAM",
+  "url": "https://www.okan.edu.tr/eduroam/",
+  "content": "EDUROAM\n\nAnasayfa\n\nOkan Anasayfa\n\nEDUROAM Nedir?\n\nEDUROAM Nedir?\n\nMENU\n\neduroam, Education Roaming (Eğitim Gezintisi) kelimelerinin kısaltmasıdır. RADIUS tabanlı altyapı üzerinden 802.1x güvenlik standartlarını kullanarak, eduroam üyesi kurumların kullanıcılarının diğer eğitim kurumlarında da sorunsuzca ağ kullanımını amaçlamaktadır.\n\neduroam üyesi kurumların kullanıcıları, kendi kurumlarında (Ev Kurum) ağa bağlanmak için kullandıkları kullanıcı adı şifre ikilileri ile, eduroam üyesi olan başka bir kurumdan (Misafir Kurum) ağa bağlanabilirler. Kullanıcı misafir kurumda iken aldığı eduroam yayınına bağlantı talebi gönderdiğinde, misafir kurumun yetkilendirme sunucusu, o kullanıcıyı kendi ev kurumunun yetkilendirme sunucusuna yönlendirerek, yetkili olup olmadığını belirler. Tüm bu sorgulamaların, sunucular arasında oluşturulan şifreli bir tünel içinden yapılması, kullanıcı adı şifre ikililerinin kullanıcının kendi ev sunucusu haricinde görülmesini engeller. Bu durumda kullanıcıların yapması gereken tek şey, misafir olduğu kurumda yeralan eduroam kablosuz ağını, kendi kurumunun ağına bağlanır gibi tanımlamasıdır.\n\neduroam federasyon hiyerarşisine sahiptir. Halen dünyada iki konfederasyon bulunmaktadır: Avrupa eduroam konfederasyonu ve Asya-Pasifik (APAN) eduroam konfederasyonu. eduroam üyesi kurumlar kendi ülkelerinde yeralan eduroam federasyonlarına, ülkelerin federasyonları da bağlı bulundukları konfederasyonlara sorgu göndermektedir. Türkiye'nin bağlı bulunduğu Avrupa eduroam konfederasyonuna ve APAN konfederasyonuna katılan her yeni federasyon ve onlara katılan her yeni kurum, bu hiyerarşi sayesinde dahil olan herkesçe tanınabilmektedir.\n\nen\n\ntr",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T19:43:45.813868Z",
+  "university": "Istanbul Okan University",
+  "source_hash": "7e754d36ebb576f01ffc774bfdbfefc7f87cdbc8fa7990b5613350ee7107b08b"
+}

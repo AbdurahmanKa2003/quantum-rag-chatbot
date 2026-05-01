@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/baski-hi-zmeti-satin-alinacaktir&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/baski-hi-zmeti-satin-alinacaktir\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:33:00.080747Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "39a5aacecbf152a1daa03512f032d9da6266c074ecc5d00196b0948eb076060a"
+}

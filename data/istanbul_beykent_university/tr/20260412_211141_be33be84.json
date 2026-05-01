@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/sobi-ad-atif-dizini&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/sobi-ad-atif-dizini\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:11:41.493319Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "be33be841e8e4aeb0bae8ab539f6ae7d5b31a67596de9a03c47be4791128f3b4"
+}

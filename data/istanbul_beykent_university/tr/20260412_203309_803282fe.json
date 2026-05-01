@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/personel-ve-ogrenci-tasimaciligi-ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/personel-ve-ogrenci-tasimaciligi-ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:33:09.412248Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "803282fe562ba36f10d38c56c273c0348517774be957eecff3b5d946bc3779af"
+}

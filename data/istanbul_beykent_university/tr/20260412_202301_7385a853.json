@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/kiralik-tarla--ihalesi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/kiralik-tarla--ihalesi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:23:01.748430Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "7385a853fe13a554277e0e473e0b72d6fb687c945dbabf95b3040207e5011e96"
+}

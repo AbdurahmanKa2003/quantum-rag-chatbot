@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/duyurular/detay/deneme-erisimli-veritabani-homsy&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/duyurular/detay/deneme-erisimli-veritabani-homsy\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T21:11:18.774804Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "17ece85cfe44c0691f26196c901b2c4169f4c4c0dab3f287695ab0afc11174bb"
+}

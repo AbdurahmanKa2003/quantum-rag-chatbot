@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/formlar&source=&data=",
+  "content": "https://www.beykent.edu.tr/kutuphane/kutuphanemiz-hakkinda/formlar\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T21:03:57.740426Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "fb4e6d2e89bb168d0b7594d46ebe85b7cc21aca31a6e3bc0430c9a47f462db94"
+}

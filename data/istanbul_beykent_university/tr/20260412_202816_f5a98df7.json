@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/universitemizde-sanat-gunleri-duzenlenecek&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/universitemizde-sanat-gunleri-duzenlenecek\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:28:16.481945Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "f5a98df7267fcaf0125a2a350c3e7f62cc0fd4050656e01d5c3ef906048c4c8a"
+}

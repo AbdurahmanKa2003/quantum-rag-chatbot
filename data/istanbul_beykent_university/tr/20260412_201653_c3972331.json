@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/akademik/akademik-takvim&source=&data=",
+  "content": "https://www.beykent.edu.tr/akademik/akademik-takvim\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "academic",
+  "timestamp": "2026-04-12T20:16:53.153248Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "c3972331d0c10de39de56c0446ec7f9039e0b107350ba715f51c5e00adb7d3f3"
+}

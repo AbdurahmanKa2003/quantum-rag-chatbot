@@ -1,0 +1,21 @@
+# Web Scraping
+scrapy==2.13.4
+langdetect==1.0.9
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# RAG System
+openai==1.58.1
+faiss-cpu==1.9.0
+python-dotenv==1.0.1
+
+# Jupyter
+jupyter==1.1.1
+notebook==7.3.2
+ipykernel==6.29.5
+
+# Utilities
+tqdm==4.67.1
+tiktoken==0.8.0

@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/ithenticate-20-surumune-gecis&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/ithenticate-20-surumune-gecis\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:20:34.055749Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "a3a76c4b5b04b574efb6de2c874816fc7c6b36eb8044786427805fb26e3bf64f"
+}

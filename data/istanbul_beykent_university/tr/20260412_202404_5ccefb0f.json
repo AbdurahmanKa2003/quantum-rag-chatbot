@@ -1,0 +1,10 @@
+{
+  "title": "Compartilhe no WhatsApp",
+  "url": "https://api.whatsapp.com/send?phone=&text=https://www.beykent.edu.tr/duyurular/detay/kreatif-hizmet-alimi&source=&data=",
+  "content": "https://www.beykent.edu.tr/duyurular/detay/kreatif-hizmet-alimi\n\nAbrir app\n\nBaixar agora\n\nBaixar app",
+  "language": "tr",
+  "content_type": "news",
+  "timestamp": "2026-04-12T20:24:04.673500Z",
+  "university": "Istanbul Beykent University",
+  "source_hash": "5ccefb0f19a1a71f27e152f2d34fe21c676e1c853021bc7e9916ee20c45ce8b2"
+}
